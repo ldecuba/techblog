@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Microsoft &#8211; Tech blog</title>
+	<atom:link href="https://ldecuba.github.io/techblog/category/microsoft/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ldecuba.github.io/techblog/</link>
+	<description>talk about IT</description>
+	<lastBuildDate>Wed, 03 Apr 2024 17:32:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Register free Azure trial account</title>
+		<link>https://ldecuba.github.io/techblog/register-for-free-microsoft-azure-trial-account/</link>
+					<comments>https://ldecuba.github.io/techblog/register-for-free-microsoft-azure-trial-account/#respond</comments>
+		
+		<dc:creator><![CDATA[ldecuba]]></dc:creator>
+		<pubDate>Wed, 03 Apr 2024 17:24:29 +0000</pubDate>
+				<category><![CDATA[Azure]]></category>
+		<guid isPermaLink="false">https://ldecuba.github.io/techblog/?p=25</guid>
+
+					<description><![CDATA[To get started with Azure you can sign up for a free account.Follow the instructions on the link below and register for a free Microsoft Azure trial account. https://azure.microsoft.com/en-us/free]]></description>
+										<content:encoded><![CDATA[
+<p>To get started with Azure you can sign up for a free account.<br>Follow the instructions on the link below and register for a free Microsoft Azure trial account.</p>
+
+
+
+<p><a href="https://azure.microsoft.com/en-us/free">https://azure.microsoft.com/en-us/free</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ldecuba.github.io/techblog/register-for-free-microsoft-azure-trial-account/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
